@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+}
+.container{
+    display: flex;align-items: center;justify-content: center;flex-direction: column;
+    width: 600px;
+    height: 100vh;
+    margin: 0 auto;
+}
+.accor{
+    margin-bottom: 10px;
+}
+.accor-summary{
+    background-color: #674000;
+    font-size: 25px;
+    color: red;
+}
